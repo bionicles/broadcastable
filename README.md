@@ -8,10 +8,12 @@ _in my real use case, I also have HList (Cons/Nil Russian Doll) of TypeNums, so 
 
 ## Start Quick
 
+clone, change directory, run tests:
 ```sh
 gh repo clone bionicles/broadcastable && cd broadcastable && cargo test
 ```
 
+once you're inside, you can just run the tests
 ```sh
 cargo test
 ```
