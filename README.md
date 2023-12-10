@@ -2,6 +2,9 @@
 
 ## TLDR: Demonstrate unhelpful compile failure errors with TypeNum
 
+backlink to the issue in the main repo:
+https://github.com/rust-lang/rust/issues/118676
+
 please note: **this is a small example**
 
 _in my real use case, I also have HList (Cons/Nil Russian Doll) of TypeNums, so it's **much worse**!_
